@@ -1,0 +1,3 @@
+[submodule "msinttypes"]
+	path = msinttypes
+	url = git@github.com:chemeris/msinttypes.git
